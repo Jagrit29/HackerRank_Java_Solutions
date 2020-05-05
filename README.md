@@ -1,5 +1,4 @@
-# Hackerrank_Java_Submissions
-All my submission to Hackerrank Platform
+### HackerRank Java Submissions
 
 <p align="center">
     <a href="https://www.hackerrank.com/jagrit_07">
