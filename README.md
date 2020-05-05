@@ -10,6 +10,10 @@
 
 * [Algorithms](#algorithms)
 * [Strings](#Strings)
+
+1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
   
 
  # Algorithms
