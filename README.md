@@ -16,6 +16,6 @@
  # Algorithms
  ## Strings
 
- |                                                              Challenge                                                              | Difficulty |                                                                                  Solution                                                                                 |
-|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                                                         |   Easy  | [CaesarCipher.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/CaesarCipher.java)                          |
+| Serial No. |                                                              Challenge                                                              | Difficulty |                                                                                  Solution                                                                                 |
+|:---------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1. | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                                                         |   Easy  | [CaesarCipher.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/CaesarCipher.java)                          |
