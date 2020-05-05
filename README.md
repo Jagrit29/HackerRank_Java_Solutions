@@ -6,13 +6,13 @@
 </p>
 
 
-### My HackerRank Java Submissions
+### My HackerRank Java AC:
 1. [Algorithms](#algorithms)
    1. [Strings](#Strings)
    2.            
   
 
- ## 1. Algorithms
+ ### 1. Algorithms
  ####  Strings
 
 | No. |                                                              Challenge                                                              | Difficulty |                                                                                  Solution                                                                                 |
