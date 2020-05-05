@@ -6,3 +6,5 @@
     </a>
     <br>My Accepted Solutions on HackerRank Platform
 </p>
+
+* [Algorithms](#algorithms)
