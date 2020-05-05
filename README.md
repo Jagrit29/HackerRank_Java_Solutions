@@ -7,8 +7,13 @@
     <br>My Accepted Solutions on HackerRank Platform
 </p>
 
-* [Algorithms](#algorithms)
+* [Algorithms] (#algorithms)
+  * [Strings] (#Strings)
+  
 
-|        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
+ # Algorithms
+ # Strings
+
+|        Subdomain        |                                                              Challenge                                                              | Difficulty |                                                                                  Solution                                                                                 |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         Strings         | [Caesar Cipher](https://www.hackerrank.com/challenges/quicksort1)                                                         |   10   | [CaesarCipher.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/CaesarCipher.java)                          |
+|         Strings         | [Caesar Cipher](https://www.hackerrank.com/challenges/quicksort1)                                                         |   Easy  | [CaesarCipher.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/CaesarCipher.java)                          |
