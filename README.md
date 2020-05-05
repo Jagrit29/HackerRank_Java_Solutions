@@ -8,3 +8,7 @@
 </p>
 
 * [Algorithms](#algorithms)
+
+|        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Strings         | [Caesar Cipher](https://www.hackerrank.com/challenges/quicksort1)                                                         |   10   | [CaesarCipher.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/CaesarCipher.java)                          |
