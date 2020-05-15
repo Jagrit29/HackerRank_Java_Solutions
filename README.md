@@ -23,5 +23,6 @@
 | 4. | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/)                                                         |   Easy  | [BeautifulBinaryString.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/BeautifulBinaryString.java)                          |
 | 5. | [Anagram](https://www.hackerrank.com/challenges/anagram/problem?isFullScreen=true)                                                         |   Easy  | [Anagram.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/Anagram.java)                          |
 | 6. | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem?isFullScreen=false)                                                         |   Easy  | [MakingAnagrams.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/MakingAnagrams.java)                          |
+| 7. | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)                                                         |   Easy  | [GameOfThroneI.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/GameOfThronesI.Java)                          |
 
 
