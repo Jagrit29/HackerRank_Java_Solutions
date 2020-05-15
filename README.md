@@ -22,4 +22,6 @@
 | 3. | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/)                                                         |   Easy  | [AlternatingCharacters.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/AlternatingCharacters.java)                          |
 | 4. | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/)                                                         |   Easy  | [BeautifulBinaryString.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/BeautifulBinaryString.java)                          |
 | 5. | [Anagram](https://www.hackerrank.com/challenges/anagram/problem?isFullScreen=true)                                                         |   Easy  | [Anagram.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/Anagram.java)                          |
+| 6. | [Making Anagram](https://www.hackerrank.com/challenges/making-anagrams/problem?isFullScreen=false)                                                         |   Easy  | [MakingAnagram.java](https://github.com/Jagrit29/HackerRank_Java_Solutions/blob/master/Problem%20Solving/Strings/MakingAnagram.java)                          |
+
 
